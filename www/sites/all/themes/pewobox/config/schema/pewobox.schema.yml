@@ -1,0 +1,5 @@
+# Schema for the configuration files of the pewobox theme.
+
+pewobox.settings:
+  type: theme_settings
+  label: 'pewobox settings'
